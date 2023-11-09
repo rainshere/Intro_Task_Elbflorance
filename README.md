@@ -50,7 +50,9 @@ ros2 launch turtlesim_color_change color_launch.py
 This launch command will initiate the following nodes:
 
 **turtlesim**: Simulates a turtle in a graphical environment.
+
 **turtle_teleop_key**: Provides teleoperation control for the turtle using keyboard arrow keys.
+
 **change_background**: Monitors the turtle's position and changes the background color based on canvas borders.
 
 To control the turtle's movement within the turtlesim window, make sure to select the `turtle_teleop_key` terminal. Use the arrow keys to navigate the turtle, and observe the background color changes as the turtle hits different sides of the canvas.
