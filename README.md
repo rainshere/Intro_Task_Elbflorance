@@ -28,7 +28,7 @@ Follow these steps to run the ROS Package to change the background color of the 
 
 1. Clone the Git repository to your local machine:
 ```bash
-git clone https://github.com/rainshere/Intro_Task_Elbflorance
+git clone https://github.com/rainshere/Intro_Task_Elbflorance.git
 ```
 2. Navigate to the root of the cloned repository:
 ```bash
