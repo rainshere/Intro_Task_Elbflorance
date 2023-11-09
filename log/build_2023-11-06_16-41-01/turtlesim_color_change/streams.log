@@ -1,0 +1,22 @@
+[1.445s] Invoking command in '/home/rain/introTask/build/turtlesim_color_change': PYTHONPATH=/home/rain/introTask/build/turtlesim_color_change/prefix_override:/home/rain/introTask/install/turtlesim_color_change/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/rain/introTask/build/turtlesim_color_change/build --no-deps install_data
+[1.957s] running develop
+[1.958s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.958s]   warnings.warn(
+[1.960s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.960s]   warnings.warn(
+[2.244s] running egg_info
+[2.246s] writing turtlesim_color_change.egg-info/PKG-INFO
+[2.246s] writing dependency_links to turtlesim_color_change.egg-info/dependency_links.txt
+[2.247s] writing entry points to turtlesim_color_change.egg-info/entry_points.txt
+[2.247s] writing requirements to turtlesim_color_change.egg-info/requires.txt
+[2.247s] writing top-level names to turtlesim_color_change.egg-info/top_level.txt
+[2.251s] reading manifest file 'turtlesim_color_change.egg-info/SOURCES.txt'
+[2.253s] writing manifest file 'turtlesim_color_change.egg-info/SOURCES.txt'
+[2.256s] running build_ext
+[2.256s] Creating /home/rain/introTask/install/turtlesim_color_change/lib/python3.10/site-packages/turtlesim-color-change.egg-link (link to .)
+[2.259s] Installing change_background script to /home/rain/introTask/install/turtlesim_color_change/lib/turtlesim_color_change
+[2.260s] 
+[2.260s] Installed /home/rain/introTask/build/turtlesim_color_change
+[2.260s] running install_data
+[2.260s] copying launch/color_launch.py -> /home/rain/introTask/install/turtlesim_color_change/share/turtlesim_color_change
+[2.324s] Invoked command in '/home/rain/introTask/build/turtlesim_color_change' returned '0': PYTHONPATH=/home/rain/introTask/build/turtlesim_color_change/prefix_override:/home/rain/introTask/install/turtlesim_color_change/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/rain/introTask/build/turtlesim_color_change/build --no-deps install_data

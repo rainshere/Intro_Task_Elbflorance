@@ -1,0 +1,41 @@
+[1.289s] Invoking command in '/home/rain/introTask/build/turtlesim_color_change': PYTHONPATH=/home/rain/introTask/build/turtlesim_color_change/prefix_override:/home/rain/introTask/install/turtlesim_color_change/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/rain/introTask/build/turtlesim_color_change/build
+[1.726s] running develop
+[1.727s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.727s]   warnings.warn(
+[1.730s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.730s]   warnings.warn(
+[2.010s] Removing /home/rain/introTask/install/turtlesim_color_change/lib/python3.10/site-packages/turtlesim-color-change.egg-link (link to .)
+[2.060s] Invoked command in '/home/rain/introTask/build/turtlesim_color_change' returned '0': PYTHONPATH=/home/rain/introTask/build/turtlesim_color_change/prefix_override:/home/rain/introTask/install/turtlesim_color_change/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/rain/introTask/build/turtlesim_color_change/build
+[2.063s] Invoking command in '/home/rain/introTask/src/turtlesim_color_change': PYTHONPATH=/home/rain/introTask/build/turtlesim_color_change/prefix_override:/home/rain/introTask/install/turtlesim_color_change/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtlesim_color_change build --build-base /home/rain/introTask/build/turtlesim_color_change/build install --record /home/rain/introTask/build/turtlesim_color_change/install.log --single-version-externally-managed
+[2.462s] running egg_info
+[2.463s] writing ../../build/turtlesim_color_change/turtlesim_color_change.egg-info/PKG-INFO
+[2.464s] writing dependency_links to ../../build/turtlesim_color_change/turtlesim_color_change.egg-info/dependency_links.txt
+[2.465s] writing entry points to ../../build/turtlesim_color_change/turtlesim_color_change.egg-info/entry_points.txt
+[2.466s] writing requirements to ../../build/turtlesim_color_change/turtlesim_color_change.egg-info/requires.txt
+[2.466s] writing top-level names to ../../build/turtlesim_color_change/turtlesim_color_change.egg-info/top_level.txt
+[2.470s] reading manifest file '../../build/turtlesim_color_change/turtlesim_color_change.egg-info/SOURCES.txt'
+[2.472s] writing manifest file '../../build/turtlesim_color_change/turtlesim_color_change.egg-info/SOURCES.txt'
+[2.472s] running build
+[2.473s] running build_py
+[2.474s] creating /home/rain/introTask/build/turtlesim_color_change/build
+[2.474s] creating /home/rain/introTask/build/turtlesim_color_change/build/lib
+[2.475s] creating /home/rain/introTask/build/turtlesim_color_change/build/lib/turtlesim_color_change
+[2.475s] copying turtlesim_color_change/change_background.py -> /home/rain/introTask/build/turtlesim_color_change/build/lib/turtlesim_color_change
+[2.476s] copying turtlesim_color_change/__init__.py -> /home/rain/introTask/build/turtlesim_color_change/build/lib/turtlesim_color_change
+[2.476s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.477s]   warnings.warn(
+[2.477s] running install
+[2.477s] running install_lib
+[2.477s] creating /home/rain/introTask/install/turtlesim_color_change/lib/python3.10/site-packages/turtlesim_color_change
+[2.478s] copying /home/rain/introTask/build/turtlesim_color_change/build/lib/turtlesim_color_change/change_background.py -> /home/rain/introTask/install/turtlesim_color_change/lib/python3.10/site-packages/turtlesim_color_change
+[2.478s] copying /home/rain/introTask/build/turtlesim_color_change/build/lib/turtlesim_color_change/__init__.py -> /home/rain/introTask/install/turtlesim_color_change/lib/python3.10/site-packages/turtlesim_color_change
+[2.479s] byte-compiling /home/rain/introTask/install/turtlesim_color_change/lib/python3.10/site-packages/turtlesim_color_change/change_background.py to change_background.cpython-310.pyc
+[2.481s] Sorry: TabError: inconsistent use of tabs and spaces in indentation (change_background.py, line 21)
+[2.481s] byte-compiling /home/rain/introTask/install/turtlesim_color_change/lib/python3.10/site-packages/turtlesim_color_change/__init__.py to __init__.cpython-310.pyc
+[2.483s] running install_data
+[2.484s] running install_egg_info
+[2.487s] Copying ../../build/turtlesim_color_change/turtlesim_color_change.egg-info to /home/rain/introTask/install/turtlesim_color_change/lib/python3.10/site-packages/turtlesim_color_change-0.0.0-py3.10.egg-info
+[2.489s] running install_scripts
+[2.525s] Installing change_background script to /home/rain/introTask/install/turtlesim_color_change/lib/turtlesim_color_change
+[2.526s] writing list of installed files to '/home/rain/introTask/build/turtlesim_color_change/install.log'
+[2.572s] Invoked command in '/home/rain/introTask/src/turtlesim_color_change' returned '0': PYTHONPATH=/home/rain/introTask/build/turtlesim_color_change/prefix_override:/home/rain/introTask/install/turtlesim_color_change/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtlesim_color_change build --build-base /home/rain/introTask/build/turtlesim_color_change/build install --record /home/rain/introTask/build/turtlesim_color_change/install.log --single-version-externally-managed

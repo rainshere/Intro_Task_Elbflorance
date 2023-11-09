@@ -1,0 +1,22 @@
+running egg_info
+writing ../../build/turtlesim_color_change/turtlesim_color_change.egg-info/PKG-INFO
+writing dependency_links to ../../build/turtlesim_color_change/turtlesim_color_change.egg-info/dependency_links.txt
+writing entry points to ../../build/turtlesim_color_change/turtlesim_color_change.egg-info/entry_points.txt
+writing requirements to ../../build/turtlesim_color_change/turtlesim_color_change.egg-info/requires.txt
+writing top-level names to ../../build/turtlesim_color_change/turtlesim_color_change.egg-info/top_level.txt
+reading manifest file '../../build/turtlesim_color_change/turtlesim_color_change.egg-info/SOURCES.txt'
+writing manifest file '../../build/turtlesim_color_change/turtlesim_color_change.egg-info/SOURCES.txt'
+running build
+running build_py
+copying turtlesim_color_change/change_background.py -> /home/rain/introTask/build/turtlesim_color_change/build/lib/turtlesim_color_change
+running install
+running install_lib
+copying /home/rain/introTask/build/turtlesim_color_change/build/lib/turtlesim_color_change/change_background.py -> /home/rain/introTask/install/turtlesim_color_change/lib/python3.10/site-packages/turtlesim_color_change
+byte-compiling /home/rain/introTask/install/turtlesim_color_change/lib/python3.10/site-packages/turtlesim_color_change/change_background.py to change_background.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/rain/introTask/install/turtlesim_color_change/lib/python3.10/site-packages/turtlesim_color_change-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/turtlesim_color_change/turtlesim_color_change.egg-info to /home/rain/introTask/install/turtlesim_color_change/lib/python3.10/site-packages/turtlesim_color_change-0.0.0-py3.10.egg-info
+running install_scripts
+Installing change_background script to /home/rain/introTask/install/turtlesim_color_change/lib/turtlesim_color_change
+writing list of installed files to '/home/rain/introTask/build/turtlesim_color_change/install.log'

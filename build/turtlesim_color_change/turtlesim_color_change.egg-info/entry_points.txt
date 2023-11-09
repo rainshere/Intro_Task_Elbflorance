@@ -1,0 +1,3 @@
+[console_scripts]
+change_background = turtlesim_color_change.change_background:main
+

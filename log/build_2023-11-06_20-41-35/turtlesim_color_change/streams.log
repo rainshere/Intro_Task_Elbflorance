@@ -1,0 +1,26 @@
+[1.306s] Invoking command in '/home/rain/introTask/src/turtlesim_color_change': PYTHONPATH=/home/rain/introTask/build/turtlesim_color_change/prefix_override:/home/rain/introTask/install/turtlesim_color_change/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtlesim_color_change build --build-base /home/rain/introTask/build/turtlesim_color_change/build install --record /home/rain/introTask/build/turtlesim_color_change/install.log --single-version-externally-managed
+[1.695s] running egg_info
+[1.696s] writing ../../build/turtlesim_color_change/turtlesim_color_change.egg-info/PKG-INFO
+[1.697s] writing dependency_links to ../../build/turtlesim_color_change/turtlesim_color_change.egg-info/dependency_links.txt
+[1.698s] writing entry points to ../../build/turtlesim_color_change/turtlesim_color_change.egg-info/entry_points.txt
+[1.698s] writing requirements to ../../build/turtlesim_color_change/turtlesim_color_change.egg-info/requires.txt
+[1.699s] writing top-level names to ../../build/turtlesim_color_change/turtlesim_color_change.egg-info/top_level.txt
+[1.703s] reading manifest file '../../build/turtlesim_color_change/turtlesim_color_change.egg-info/SOURCES.txt'
+[1.705s] writing manifest file '../../build/turtlesim_color_change/turtlesim_color_change.egg-info/SOURCES.txt'
+[1.706s] running build
+[1.707s] running build_py
+[1.708s] copying turtlesim_color_change/change_background.py -> /home/rain/introTask/build/turtlesim_color_change/build/lib/turtlesim_color_change
+[1.708s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.709s]   warnings.warn(
+[1.709s] running install
+[1.709s] running install_lib
+[1.711s] copying /home/rain/introTask/build/turtlesim_color_change/build/lib/turtlesim_color_change/change_background.py -> /home/rain/introTask/install/turtlesim_color_change/lib/python3.10/site-packages/turtlesim_color_change
+[1.712s] byte-compiling /home/rain/introTask/install/turtlesim_color_change/lib/python3.10/site-packages/turtlesim_color_change/change_background.py to change_background.cpython-310.pyc
+[1.714s] running install_data
+[1.716s] running install_egg_info
+[1.719s] removing '/home/rain/introTask/install/turtlesim_color_change/lib/python3.10/site-packages/turtlesim_color_change-0.0.0-py3.10.egg-info' (and everything under it)
+[1.720s] Copying ../../build/turtlesim_color_change/turtlesim_color_change.egg-info to /home/rain/introTask/install/turtlesim_color_change/lib/python3.10/site-packages/turtlesim_color_change-0.0.0-py3.10.egg-info
+[1.722s] running install_scripts
+[1.757s] Installing change_background script to /home/rain/introTask/install/turtlesim_color_change/lib/turtlesim_color_change
+[1.758s] writing list of installed files to '/home/rain/introTask/build/turtlesim_color_change/install.log'
+[1.802s] Invoked command in '/home/rain/introTask/src/turtlesim_color_change' returned '0': PYTHONPATH=/home/rain/introTask/build/turtlesim_color_change/prefix_override:/home/rain/introTask/install/turtlesim_color_change/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/turtlesim_color_change build --build-base /home/rain/introTask/build/turtlesim_color_change/build install --record /home/rain/introTask/build/turtlesim_color_change/install.log --single-version-externally-managed

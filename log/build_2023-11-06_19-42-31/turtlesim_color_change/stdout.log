@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing turtlesim_color_change.egg-info/PKG-INFO
+writing dependency_links to turtlesim_color_change.egg-info/dependency_links.txt
+writing entry points to turtlesim_color_change.egg-info/entry_points.txt
+writing requirements to turtlesim_color_change.egg-info/requires.txt
+writing top-level names to turtlesim_color_change.egg-info/top_level.txt
+reading manifest file 'turtlesim_color_change.egg-info/SOURCES.txt'
+writing manifest file 'turtlesim_color_change.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/rain/introTask/install/turtlesim_color_change/lib/python3.10/site-packages/turtlesim-color-change.egg-link (link to .)
+Installing change_background script to /home/rain/introTask/install/turtlesim_color_change/lib/turtlesim_color_change
+
+Installed /home/rain/introTask/build/turtlesim_color_change
+running install_data
