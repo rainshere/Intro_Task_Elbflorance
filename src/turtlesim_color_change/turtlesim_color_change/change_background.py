@@ -49,12 +49,12 @@ class ChangeBackgroundColor(Node):
             print("Hit the left wall")
             self.send_request(0,0,255)
             print("Color changed to blue")
-        elif msg.x > 10.0:
+        elif msg.x > 11.0:
             # Hit the right wall
             print("Hit the right wall")
             self.send_request(0,255,0)
             print("Color changed to green")
-        elif msg.y > 10.0:
+        elif msg.y > 11.0:
             # Hit the top wall
             print("Hit the top wall")
             self.send_request(255,0,0)
